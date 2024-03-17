@@ -4,6 +4,10 @@
 
 This project the company wants to assess the impact and effectiveness of its employee wellness program to make informed decisions regarding program improvement  and resources.
 
+
+
+![IMG_2672](https://github.com/marrieth/ZAPPOS-ANALYSIS/assets/138234128/98505de7-9876-4524-89e4-990f67745537)
+
 ### DATA SOURCE
 
 Employee Wellness Program data used for this analysis is the employee_wellness_data.csv file,containing detailed record about the employee wellness program made by Zappos.
